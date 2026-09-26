@@ -69,23 +69,18 @@ First-author study evaluating how large language models prioritize clinical vari
 
 **Seoul Foodservice Site Intelligence** `2026` 🏆
 Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets. **Grand Prize, 2026 Seoul Big Data Competition.**
-[![gykwak03/repo](https://img.shields.io/badge/gykwak03%2FREPO__NAME-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03/REPO_NAME)
 
 **DentiScan** `2026`
 Two-stage deep learning pipeline for dental lesion screening, deployed on AWS.
-[![gykwak03/repo](https://img.shields.io/badge/gykwak03%2FREPO__NAME-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03/REPO_NAME)
 
 **SS-TI** `Mar — Jul 2024`
 Browser-based taste preference assessment tool.
-[![gykwak03/repo](https://img.shields.io/badge/gykwak03%2FREPO__NAME-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03/REPO_NAME)
 
 **Food Poisoning Battle** `Sep — Oct 2023`
 Educational strategy game teaching foodborne pathogen transmission and prevention.
-[![gykwak03/repo](https://img.shields.io/badge/gykwak03%2FREPO__NAME-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03/REPO_NAME)
 
 **Book-Delivery Robot Hubs** `Jul — Aug 2023`
 Hub placement and route optimization for library book-delivery robots, using nine public datasets.
-[![gykwak03/repo](https://img.shields.io/badge/gykwak03%2FREPO__NAME-404040?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03/REPO_NAME)
 
 ---
 
