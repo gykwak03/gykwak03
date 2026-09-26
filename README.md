@@ -94,12 +94,3 @@ Hub placement and route optimization for library book-delivery robots, using nin
 | Award | Competition | Year |
 |-------|-------------|:----:|
 | 🏆 **Grand Prize** | Seoul Big Data Competition | 2026 |
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gykwak03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gykwak03&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Top languages" />
-</p>
