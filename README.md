@@ -69,15 +69,19 @@ First-author study evaluating how large language models prioritize clinical vari
 
 **Seoul Foodservice Site Intelligence** `2026` 🏆
 Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets. **Grand Prize, 2026 Seoul Big Data Competition.**
+[![Team GitHub](https://img.shields.io/badge/Team%20GitHub-cloud--computing--2026--1--teamF-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-computing-2026-1-teamF)
 
 **DentiScan** `2026`
 Two-stage deep learning pipeline for dental lesion screening, deployed on AWS.
+[![GitHub](https://img.shields.io/badge/GitHub-DentiScan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DataAnalysisCapstoneDesign-2026/code)
 
 **SS-TI** `Mar — Jul 2024`
 Browser-based taste preference assessment tool.
+[![GitHub](https://img.shields.io/badge/GitHub-SS--TI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03/SS-TI)
 
 **Food Poisoning Battle** `Sep — Oct 2023`
 Educational strategy game teaching foodborne pathogen transmission and prevention.
+[![GitHub](https://img.shields.io/badge/GitHub-Micro__organism-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03/Micro_organism)
 
 **Book-Delivery Robot Hubs** `Jul — Aug 2023`
 Hub placement and route optimization for library book-delivery robots, using nine public datasets.
