@@ -34,6 +34,17 @@ I am currently preparing for M.S. programs in data science and healthcare AI in 
 
 ---
 
+### Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| **Korean** | Native |
+| **English** | IELTS Academic **7.0 (C1)** · Oct 31, 2026 |
+
+Listening **8.0** · Reading **7.0** · Writing **7.0** · Speaking **6.0**
+
+---
+
 ### Experience
 
 | Role | Organization | Period |
