@@ -74,9 +74,8 @@ Listening **8.0** · Reading **7.0** · Writing **7.0** · Speaking **6.0**
 
 ### Projects
 
-**LLM-Based Delirium Feature Identification** `2024 — 2025` ⭐
+**LLM-Based Delirium Feature Identification** `2024 — 2025` ⭐ · **Under Review**
 First-author study evaluating how large language models prioritize clinical variables for ICU delirium prediction. Compared four LLM feature-selection strategies — Scoring, Ranking, Sequencing, and LMPrior — across GPT-4o, Claude 3.5 Haiku, and Grok-3 over 103 literature-derived candidate features from a MIMIC-IV cohort of 32,574 patients, measuring seed consistency, round-number bias, and Spearman/Kendall rank agreement.
-[![Paper](https://img.shields.io/badge/📄%20Paper-Under%20Review-4568A0?style=flat-square)](https://gykwak03.github.io)
 
 **Seoul Foodservice Site Intelligence** `2026` 🏆
 Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets. **Grand Prize, 2026 Seoul Big Data Competition.**
