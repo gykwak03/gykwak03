@@ -82,7 +82,7 @@ Three-year survival prediction model for foodservice businesses in Seoul, built 
 [![Team GitHub](https://img.shields.io/badge/Team%20GitHub-cloud--computing--2026--1--teamF-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-computing-2026-1-teamF)
 
 **DentiScan** `2026`
-Two-stage deep learning pipeline for dental lesion screening, deployed on AWS.
+Two-stage dental lesion screening pipeline deployed on AWS. RF-DETR achieved **81.28% precision** in the detector comparison, and a Swin Transformer rechecked candidate regions to filter likely false positives.
 [![GitHub](https://img.shields.io/badge/GitHub-DentiScan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DataAnalysisCapstoneDesign-2026/code)
 
 **SS-TI** `Mar — Jul 2024`
