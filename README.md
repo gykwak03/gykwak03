@@ -1,6 +1,6 @@
 # Gayoung Kwak · 곽가영
 
-**Healthcare AI · Applied Machine Learning**
+**AI & Data Science for Healthcare**
 
 B.S. Candidate in Food Science & Nutrition and Software Convergence, Kyung Hee University
 
@@ -29,7 +29,7 @@ I am currently preparing for M.S. programs in data science and healthcare AI in 
 | Degree | Major | Institution | Period |
 |--------|-------|-------------|--------|
 | 🎓 **B.S.** | Food Science & Nutrition | Kyung Hee University, Seoul | Mar 2022 — Present |
-| 🎓 **B.S.** | Software Convergence (AI & Data Science) | Kyung Hee University, Global | Mar 2024 — Present |
+| 🎓 **B.S.** | Software Convergence (Data Science Track) | Kyung Hee University, Global | Mar 2024 — Present |
 | 🌍 **Exchange** | Data Science & Engineering | Instituto Superior Técnico, Univ. of Lisbon | Sep 2025 — Jan 2026 |
 
 ---
@@ -49,7 +49,7 @@ Listening **8.0** · Reading **7.0** · Writing **7.0** · Speaking **6.0**
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| 🔬 **Research Intern** | Cardio-Cerebrovascular Center, Severance Hospital, Yonsei University | Jul 2024 — Feb 2025 |
+| 🔬 **Research Intern** | Cardio-Cerebrovascular Center, Severance Hospital, Yonsei University | Jul 2024 — Jul 2025 |
 
 ---
 
