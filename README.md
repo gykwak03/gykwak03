@@ -78,7 +78,7 @@ Listening **8.0** · Reading **7.0** · Writing **7.0** · Speaking **6.0**
 First-author study evaluating how large language models prioritize clinical variables for ICU delirium prediction. Compared four LLM feature-selection strategies — Scoring, Ranking, Sequencing, and LMPrior — across GPT-4o, Claude 3.5 Haiku, and Grok-3 over 103 literature-derived candidate features from a MIMIC-IV cohort of 32,574 patients, measuring seed consistency, round-number bias, and Spearman/Kendall rank agreement.
 
 **Seoul Foodservice Site Intelligence** `2026` 🏆
-Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets. **Grand Prize, 2026 Seoul Big Data Competition.**
+Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets. [**Grand Prize, 2026 Seoul Big Data Competition.**](https://data.seoul.go.kr/together/cpthb/cpthbHistView.do?bbsCd=10020&seq=01bcebc28beb6b7259036aec2872ad44&usrId=undefined&ditcCd=2026&ver=1&page=gallery)
 [![Team GitHub](https://img.shields.io/badge/Team%20GitHub-cloud--computing--2026--1--teamF-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-computing-2026-1-teamF)
 
 **DentiScan** `2026`
@@ -102,4 +102,4 @@ Hub placement and route optimization for library book-delivery robots, using nin
 
 | Award | Competition | Year |
 |-------|-------------|:----:|
-| 🏆 **Grand Prize** | Seoul Big Data Competition | 2026 |
+| 🏆 **Grand Prize** | [Seoul Big Data Competition](https://data.seoul.go.kr/together/cpthb/cpthbHistView.do?bbsCd=10020&seq=01bcebc28beb6b7259036aec2872ad44&usrId=undefined&ditcCd=2026&ver=1&page=gallery) | 2026 |
