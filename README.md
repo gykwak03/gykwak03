@@ -66,9 +66,12 @@ Listening **8.0** · Reading **7.0** · Writing **7.0** · Speaking **6.0**
 | Category | |
 |----------|--------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
+| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+| **LLM Tools** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
 | **Data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Web / Cloud** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
@@ -83,11 +86,11 @@ Three-year survival prediction model for foodservice businesses in Seoul, built 
 [![Team GitHub](https://img.shields.io/badge/Team%20GitHub-cloud--computing--2026--1--teamF-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-computing-2026-1-teamF)
 
 **DentiScan** `2026`
-Two-stage dental lesion screening pipeline deployed on AWS. RF-DETR achieved **81.28% precision** in the detector comparison, and a Swin Transformer rechecked candidate regions to filter likely false positives.
+Designed a two-stage RF-DETR + Swin Transformer pipeline to filter false-positive lesion candidates. Overall precision increased from **67.41% to 80.63%**, while recall decreased from **73.25% to 62.74%**. The AWS-deployed app displays lesion-level and mean confidence scores.
 [![GitHub](https://img.shields.io/badge/GitHub-DentiScan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DataAnalysisCapstoneDesign-2026/code)
 
 **SS-TI** `Mar — Jul 2024`
-Browser-based taste preference assessment tool.
+Built a 40-item web assessment with personalized dietary feedback to help users understand their eating habits and identify practical improvements.
 [![GitHub](https://img.shields.io/badge/GitHub-SS--TI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03/SS-TI)
 
 **Food Poisoning Battle** `Sep — Oct 2023`
