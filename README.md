@@ -18,7 +18,7 @@ B.S. Candidate in Food Science & Nutrition and Software Convergence, Kyung Hee U
 
 I build machine learning systems for health, at the point where clinical data and nutrition science meet. I am an undergraduate at Kyung Hee University with dual degrees in `Food Science & Nutrition` and `Software Convergence`, which lets me read a clinical variable and a model output as the same problem.
 
-As a research intern at the Cardio-Cerebrovascular Center, Severance Hospital, I led a first-author study on **LLM-based feature selection for ICU delirium prediction** over a MIMIC-IV cohort of 32,574 patients. I also spent 2025–26 studying `Data Science and Engineering` at Instituto Superior Técnico in Lisbon.
+As a research intern at the Integrative Research Center for Cerebrovascular and Cardiovascular Diseases, Yonsei University College of Medicine, I led a first-author study on **LLM-based feature selection for ICU delirium prediction** over a MIMIC-IV cohort of 32,574 patients. I also spent 2025–26 studying `Data Science and Engineering` at Instituto Superior Técnico in Lisbon.
 
 I am currently preparing for M.S. programs in data science and healthcare AI in the US and Canada.
 
@@ -49,7 +49,7 @@ Listening **8.0** · Reading **7.0** · Writing **7.0** · Speaking **6.0**
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| 🔬 **Research Intern** | Cardio-Cerebrovascular Center, Severance Hospital, Yonsei University | Jul 2024 — Jul 2025 |
+| 🔬 **Research Intern** | Integrative Research Center for Cerebrovascular and Cardiovascular Diseases, Yonsei University College of Medicine | Jul 2024 — Jul 2025 |
 
 ---
 
