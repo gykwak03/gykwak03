@@ -74,11 +74,12 @@ Listening **8.0** · Reading **7.0** · Writing **7.0** · Speaking **6.0**
 
 ### Projects
 
-**LLM-Based Delirium Feature Identification** `2024 — 2025` ⭐ · **Under Review**
-First-author study evaluating how large language models prioritize clinical variables for ICU delirium prediction. Compared four LLM feature-selection strategies — Scoring, Ranking, Sequencing, and LMPrior — across GPT-4o, Claude 3.5 Haiku, and Grok-3 over 103 literature-derived candidate features from a MIMIC-IV cohort of 32,574 patients, measuring seed consistency, round-number bias, and Spearman/Kendall rank agreement.
+**LLM-Based Feature Prioritisation for ICU Delirium Prediction: Reproducibility and Predictive Utility** `2024 — 2025` ⭐
+**First Author · Under Review at Smart Health · Journal Impact Factor 3.4**
+Constructed a retrospective MIMIC-IV cohort of 32,574 first ICU stays to evaluate four LLM-based feature-selection methods: Scoring, Ranking, Sequencing, and log-prior. The best 30-feature LLM subset retained 93.0% of the full-feature XGBoost AUROC, supporting the potential of LLMs as assistive tools for feature prioritisation in clinical prediction research.
 
-**Seoul Foodservice Site Intelligence** `2026` 🏆
-Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets. [**Grand Prize, 2026 Seoul Big Data Competition.**](https://data.seoul.go.kr/together/cpthb/cpthbHistView.do?bbsCd=10020&seq=01bcebc28beb6b7259036aec2872ad44&usrId=undefined&ditcCd=2026&ver=1&page=gallery)
+**Seoul Foodservice Site Intelligence** `2026`
+Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets.
 [![Team GitHub](https://img.shields.io/badge/Team%20GitHub-cloud--computing--2026--1--teamF-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-computing-2026-1-teamF)
 
 **DentiScan** `2026`
@@ -100,6 +101,6 @@ Hub placement and route optimization for library book-delivery robots, using nin
 
 ### Awards
 
-| Award | Competition | Year |
+| Award | Project and Competition | Year |
 |-------|-------------|:----:|
-| 🏆 **Grand Prize** | [Seoul Big Data Competition](https://data.seoul.go.kr/together/cpthb/cpthbHistView.do?bbsCd=10020&seq=01bcebc28beb6b7259036aec2872ad44&usrId=undefined&ditcCd=2026&ver=1&page=gallery) | 2026 |
+| 🏆 **Grand Prize · Mayor of Seoul Award** | **Seoul Foodservice Site Intelligence (상권을 부탁해)** · [Seoul Metropolitan Government Big Data Competition](https://data.seoul.go.kr/together/cpthb/cpthbHistView.do?bbsCd=10020&seq=01bcebc28beb6b7259036aec2872ad44&usrId=undefined&ditcCd=2026&ver=1&page=gallery) · Startup Division, Product & Service Development | 2026 |
