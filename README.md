@@ -79,7 +79,7 @@ Listening **8.0** · Reading **7.0** · Writing **7.0** · Speaking **6.0**
 Constructed a retrospective MIMIC-IV cohort of 32,574 first ICU stays to evaluate four LLM-based feature-selection methods: Scoring, Ranking, Sequencing, and log-prior. The best 30-feature LLM subset retained 93.0% of the full-feature XGBoost AUROC, supporting the potential of LLMs as assistive tools for feature prioritisation in clinical prediction research.
 
 **Seoul Foodservice Site Intelligence** `2026`
-Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets.
+Three-year survival prediction model for foodservice businesses in Seoul, built by merging 16 public datasets. As ML Lead, improved AUROC from **0.55 to a final 0.69** to support site selection for small-business owners in Seoul.
 [![Team GitHub](https://img.shields.io/badge/Team%20GitHub-cloud--computing--2026--1--teamF-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-computing-2026-1-teamF)
 
 **DentiScan** `2026`
