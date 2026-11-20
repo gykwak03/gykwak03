@@ -9,7 +9,6 @@ B.S. Candidate in Food Science & Nutrition and Software Convergence, Kyung Hee U
 [![Email](https://img.shields.io/badge/gykwak03@khu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gykwak03@khu.ac.kr)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://gykwak03.github.io)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayoungkwak)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/gykwak03)&nbsp;
 [![Blog](https://img.shields.io/badge/Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://ganuyaa.tistory.com)
 
 ---
