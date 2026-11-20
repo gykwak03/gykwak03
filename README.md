@@ -20,8 +20,6 @@ I build machine learning systems for health, at the point where clinical data an
 
 As a research intern at the Integrative Research Center for Cerebrovascular and Cardiovascular Diseases, Yonsei University College of Medicine, I led a first-author study on **LLM-based feature selection for ICU delirium prediction** over a MIMIC-IV cohort of 32,574 patients. I also spent 2025–26 studying `Data Science and Engineering` at Instituto Superior Técnico in Lisbon.
 
-I am currently preparing for M.S. programs in data science and healthcare AI in the US and Canada.
-
 ---
 
 ### Education
